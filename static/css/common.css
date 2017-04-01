@@ -1,0 +1,29 @@
+html{font-size:62.5%;}
+body{font-size:1rem;}
+table{border-collapse:collapse;border-spacing:0;}
+ul{margin:0;padding:0;list-style:none;}
+li{list-style:none;}
+fieldset,img{border:0;}
+/* 使图片在a下不会有间隙 */
+img{vertical-align:middle;}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
+body,code,dd,div,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,img,input,legend,li,ol,p,pre,td,textarea,th,ul{margin:0;padding:0;box-sizing: border-box;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:400;}
+ol,ul{list-style:none;}
+caption,th{text-align:left;}
+address,caption,cite,code,dfn,em,i,th,var{font-style:normal;font-weight:normal;}
+legend{color:#000;}
+a,input,select,textarea,button{-webkit-appearance:none;-webkit-tap-highlight-color:rgba(0,0,0,0);border:0;font-family:inherit;font-size:inherit;font-weight:inherit;}
+select,input,button{background-color:transparent;outline:none;}
+a,a:link,a:visited,a:hover,a:active,a:focus{text-decoration: none;}
+a,a:focus,input,textarea,select{outline:none; -moz-outline-style:none;}
+a:hover{text-decoration:none;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{display:inline-block;}
+.clearfix{display:block;}
+.clear{clear:both;height:0;font:0/0 Arial;visibility:hidden;}
+.none{display:none;}
+.flex{display:flex;display:-webkit-flex;}
+.flexConter{width:100%;display: -webkit-flex;display: flex;-webkit-align-items: center;align-items: center;-webkit-justify-content: center;justify-content: center;}
