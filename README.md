@@ -30,4 +30,4 @@ npm test
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 演示效果GIF：
-![image](https://github.com/634693482@qq.com/vue-rouer/mygif.gif)
+![image](http://www.baidu.com/img/bdlogo.png)
